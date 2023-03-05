@@ -1,7 +1,4 @@
 # Exploratory_data_analysis_phyton
-My project on the Yandex Practicum course on the topic Exploratory data analysis
-pandas,  matplotlib, seaborn, исследовательский анализ данных, визуализация данных, предобработка данных
-На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость
-объектов недвижимости разного типа, типичные параметры квартир, в зависимости от
-удаленности от центра. Проведена предобработка данных. Добавлены новые данные.
-Построены гистограммы, боксплоты, диаграммы рассеивания.
+## My project on the Yandex Practicum course on the topic Exploratory data analysis
+## Apartments for sale in St. Petersburg - real estate market analysis
+### pandas,  matplotlib, seaborn, research data analysis, data visualization, data preprocessing
